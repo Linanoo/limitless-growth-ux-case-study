@@ -326,7 +326,7 @@ Community features require careful moderation design
 
 Iteration is more important than initial aesthetics
 
-
+📁 Repository Structure
 
 Supporting documentation includes:
 
